@@ -11,7 +11,7 @@
 
 ---
 
-## Selected Projects
+## Project Work 
 - **Bucks County Dog Training** – Full-stack scheduling platform (React, NoSQL) for client management and appointment booking.  
 - **GoFish Multiplayer** – Multiplayer betting card game with real-time lobby hosting, currency tracking, and player stats (React, NoSQL).  
 
